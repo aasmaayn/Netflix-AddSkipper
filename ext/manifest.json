@@ -1,14 +1,14 @@
 {
-  "name": "andChill",
+  "name": "Netflix AddSkipper",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Save 30 seconds by automatically skipping Netflix show introductions and credits",
   "homepage_url": "https://github.com/aasmaayn",
   "options_page": "src/options/options.html",
   "icons": {
-    "16": "icons/television_alt.png",
-    "48": "icons/television_alt.png",
-    "128": "icons/television_alt.png"
+    "16": "icons/icon.png",
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
   },
   "permissions": [
           "storage"

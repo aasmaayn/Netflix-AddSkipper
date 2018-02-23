@@ -3,7 +3,7 @@ chrome.extension.sendMessage({}, function (response) {
 	var readyStateCheckInterval = setInterval(function () {
 		if (document.readyState === "complete") {
 			clearInterval(readyStateCheckInterval);
-			console.log("andChill is running. Check out my github @jakewski");
+			console.log("andChill is running. Check out my github @aasmaayn");
 
 		}
 	}, 10);
